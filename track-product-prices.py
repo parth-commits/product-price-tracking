@@ -7,7 +7,6 @@ URL = 'https://www.bestbuy.ca/en-ca/product/samsung-galaxy-note20-ultra-5g-128gb
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
 }
-
 # these are just place holder's to protect the identity of the creator of this script. Please enter valid details here to make this program work.
 sender_email = "senderemail@gmail.com"
 sender_password = "sender_password"
